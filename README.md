@@ -1,5 +1,5 @@
 sophomore
 
-interested in ai and RL on games
+interested in LLMs and RL on games
 
 Hobbies include chess(2450 peak in bullet on lichess)
